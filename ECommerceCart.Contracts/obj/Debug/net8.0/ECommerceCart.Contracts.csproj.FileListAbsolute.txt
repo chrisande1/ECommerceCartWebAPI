@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\bin\Debug\net8.0\ECommerceCart.Contracts.deps.json
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\bin\Debug\net8.0\ECommerceCart.Contracts.dll
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\bin\Debug\net8.0\ECommerceCart.Contracts.pdb
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\obj\Debug\net8.0\ECommerceCart.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\obj\Debug\net8.0\ECommerceCart.Contracts.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\obj\Debug\net8.0\ECommerceCart.Contracts.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\obj\Debug\net8.0\ECommerceCart.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\obj\Debug\net8.0\ECommerceCart.Contracts.dll
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\obj\Debug\net8.0\refint\ECommerceCart.Contracts.dll
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\obj\Debug\net8.0\ECommerceCart.Contracts.pdb
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\obj\Debug\net8.0\ref\ECommerceCart.Contracts.dll
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Contracts\obj\Debug\net8.0\ECommerceCart.Contracts.sourcelink.json

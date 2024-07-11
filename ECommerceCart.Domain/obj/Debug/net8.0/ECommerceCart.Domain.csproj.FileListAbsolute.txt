@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\bin\Debug\net8.0\ECommerceCart.Domain.deps.json
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\bin\Debug\net8.0\ECommerceCart.Domain.dll
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\bin\Debug\net8.0\ECommerceCart.Domain.pdb
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\ECommerceCart.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\ECommerceCart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\ECommerceCart.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\ECommerceCart.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\ECommerceCart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\ECommerceCart.Domain.dll
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\refint\ECommerceCart.Domain.dll
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\ECommerceCart.Domain.pdb
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\ref\ECommerceCart.Domain.dll
+C:\Users\DELL\source\repos\ECommerceCart\ECommerceCart.Domain\obj\Debug\net8.0\ECommerceCart.Domain.sourcelink.json
