@@ -27,6 +27,5 @@ Layers
 Getting Started
 
 - Clone the repository
-
-- Run the migrations
+- Run migrations
 - Run the API 
