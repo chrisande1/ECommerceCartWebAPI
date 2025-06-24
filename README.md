@@ -15,7 +15,7 @@ Technical Details
 
 - Domain-Driven Design (DDD): emphasis on business logic and domain modeling
 - Clean Architecture: separation of concerns into layers (Entities, Use Cases, Interface Adapters, Frameworks & Drivers)
-- API built using [insert programming language/framework]
+- API built using C#/ASP.Net Core
 
 Layers
 
@@ -28,5 +28,5 @@ Getting Started
 
 - Clone the repository
 
-- Configure environment settings
+- Run the migrations
 - Run the API 
